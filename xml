@@ -1,0 +1,9 @@
+<!-- sitemap.xml -->
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.w3.org/1999/xhtml">
+  <url><loc>https://nononick.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://nononick.com/case-study.html?id=nononick-ai</loc><priority>0.8</priority></url>
+  <url><loc>https://nononick.com/case-study.html?id=digital-business</loc><priority>0.8</priority></url>
+  <url><loc>https://nononick.com/case-study.html?id=luxury-studio</loc><priority>0.8</priority></url>
+  <url><loc>https://nononick.com/case-study.html?id=performance-engine</loc><priority>0.8</priority></url>
+</urlset>

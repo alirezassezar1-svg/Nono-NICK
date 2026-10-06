@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 80" width="240" height="80">
+  <rect width="240" height="80" fill="#04050A"/>
+  <defs>
+    <radialGradient id="o" cx="34%" cy="30%" r="76%">
+      <stop offset="0" stop-color="#F0FBFF"/><stop offset=".4" stop-color="#3FE0FF"/>
+      <stop offset=".78" stop-color="#3C6BFF"/><stop offset="1" stop-color="#8B5CF6"/>
+    </radialGradient>
+  </defs>
+  <circle cx="42" cy="40" r="19" fill="url(#o)"/>
+  <circle cx="42" cy="40" r="26" fill="none" stroke="#3FE0FF" stroke-opacity=".3"/>
+  <text x="78" y="49" font-family="Syne,Trebuchet MS,sans-serif" font-size="27" font-weight="800"
+        letter-spacing="2.4" fill="#EAEEF7">NONONICK</text>
+</svg>

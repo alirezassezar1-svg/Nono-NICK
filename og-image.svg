@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <radialGradient id="bg" cx="72%" cy="26%" r="70%">
+      <stop offset="0" stop-color="#0E1730"/><stop offset="1" stop-color="#04050A"/>
+    </radialGradient>
+    <radialGradient id="orb" cx="34%" cy="28%" r="78%">
+      <stop offset="0" stop-color="#F2FBFF"/><stop offset=".3" stop-color="#3FE0FF"/>
+      <stop offset=".68" stop-color="#3C6BFF"/><stop offset="1" stop-color="#8B5CF6"/>
+    </radialGradient>
+    <pattern id="mesh" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M60 0H0V60" fill="none" stroke="#94B2DE" stroke-opacity=".08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#mesh)"/>
+  <circle cx="880" cy="250" r="170" fill="url(#orb)" opacity=".95"/>
+  <circle cx="880" cy="250" r="215" fill="none" stroke="#3FE0FF" stroke-opacity=".22"/>
+  <ellipse cx="880" cy="250" rx="215" ry="72" fill="none" stroke="#8B5CF6" stroke-opacity=".3"/>
+  <text x="80" y="150" font-family="IBM Plex Mono,monospace" font-size="17" letter-spacing="7" fill="#3FE0FF">DIGITAL WEB STUDIO</text>
+  <text x="80" y="300" font-family="Syne,sans-serif" font-size="104" font-weight="800" letter-spacing="-2" fill="#EAEEF7">NONONICK</text>
+  <text x="80" y="392" font-family="Syne,sans-serif" font-size="52" font-weight="700" fill="#EAEEF7">WE BUILD DIGITAL SYSTEMS.</text>
+  <text x="80" y="452" font-family="Manrope,sans-serif" font-size="23" fill="#A9B2C6">Design. Build. Launch. Manage. Evolve.</text>
+  <text x="80" y="560" font-family="IBM Plex Mono,monospace" font-size="15" letter-spacing="5" fill="#6C7591">NONONICK.COM · AHVAZ · KHUZESTAN · IR</text>
+</svg>

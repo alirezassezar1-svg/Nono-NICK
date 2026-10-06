@@ -1,0 +1,15 @@
+{
+  "name": "NONONICK — We Build Digital Systems",
+  "short_name": "NONONICK",
+  "description": "Digital web studio designing, building, launching and managing modern websites and digital systems.",
+  "start_url": "/index.html",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#04050A",
+  "theme_color": "#04050A",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" },
+    { "src": "logo-mark.svg", "sizes": "240x80", "type": "image/svg+xml" }
+  ]
+}

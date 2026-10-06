@@ -1,0 +1,6 @@
+# robots.txt
+User-agent: *
+Allow: /
+Disallow: /case-study.html?id=$
+
+Sitemap: https://nononick.com/sitemap.xml
